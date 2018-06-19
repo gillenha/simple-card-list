@@ -1,0 +1,14 @@
+.container {
+	align-items: center;
+	text-align: center;
+	border: 1px solid black;
+	margin: 0 auto;
+	border-radius: 15px;
+	margin-top: 5px;
+}
+
+.photo {
+	border-radius: 15px;
+	border: 1px solid black;
+	height: 150px;
+}
